@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="publisher_node" type="publisher_node" pkg="communication" output="screen" required="true" />
+</launch>
